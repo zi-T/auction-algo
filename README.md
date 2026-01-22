@@ -1,6 +1,6 @@
 ## Credits
 
-This project is based on starter code provided by <League of Robot Runners>,
+This project is based on starter code provided by [League of Robot Runners](http://www.leagueofrobotrunners.org/),
 licensed under the MIT License. 
 
 My main contributions are in the python folder, with my own pyTaskScheduler.py to be the auction algorithm. 
