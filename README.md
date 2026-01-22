@@ -1,3 +1,12 @@
+## Credits
+
+This project is based on starter code provided by <League of Robot Runners>,
+licensed under the MIT License. 
+
+My main contributions are in the python folder, with my own pyTaskScheduler.py to be the auction algorithm. 
+
+Original repository: <[link](https://github.com/MAPF-COMPETITION-REPOS)>
+
 # Start-Kit
 
 ## Join the competition
